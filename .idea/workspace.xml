@@ -10,7 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59f82ab3-404d-47ac-9482-3409857b28ed" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MinecraftPluginBase_jar/MinecraftPluginBase.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710255019602</updated>
       <workItem from="1710255020862" duration="6144000" />
-      <workItem from="1710262383103" duration="2042000" />
+      <workItem from="1710262383103" duration="2289000" />
     </task>
     <servers />
   </component>
