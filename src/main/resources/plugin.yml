@@ -1,0 +1,11 @@
+name: ExamplePlugin
+version: '${project.version}'
+main: de.artus.example.PluginMainClass
+api-version: '1.20'
+authors: [ArtusDev]
+description: This plugin uses the PluginBase api and is an example to test out things.
+website: https://artuslama.github.io
+
+commands:
+  test123:
+    description: test xD

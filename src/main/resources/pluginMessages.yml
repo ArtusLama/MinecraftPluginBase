@@ -1,0 +1,18 @@
+selected_language: "en"
+
+en:
+  errors:
+    commands:
+      wrong_executor:
+        players_only: "This command can only be executed by players!"
+        console_only: "This command can only be executed by the console!"
+
+    config:
+      save: "Something went wrong while saving a config file!"
+
+  info:
+    translations:
+      created_config: "Translation config does not exist! Creating default one ..."
+
+
+
