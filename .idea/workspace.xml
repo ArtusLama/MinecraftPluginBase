@@ -10,32 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59f82ab3-404d-47ac-9482-3409857b28ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/MinecraftPluginBase_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/artus/basePlugin/commands/ConsolePluginCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/artus/basePlugin/commands/PlayerPluginCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/artus/basePlugin/commands/PluginCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/artus/basePlugin/devUtils/AutoReloadPlugin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/artus/basePlugin/devUtils/DevUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/artus/basePlugin/logging/ConsoleErrorManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/artus/basePlugin/logging/LogColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/artus/basePlugin/logging/LogSectionProgress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/artus/basePlugin/logging/LogUnicodeReplacements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/artus/basePlugin/logging/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/artus/basePlugin/text/DefaultMessages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/artus/basePlugin/text/Translations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/artus/basePlugin/utils/config/ConfigFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/artus/example/PluginMainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/artus/example/TestConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/artus/example/commands/TestCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/artus/example/listeners/BlockBreakEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/artus/example/listeners/ExampleEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/artus/example/listeners/OtherExampleEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/pluginMessages.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/artus/BasePlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/artus/basePlugin/BasePlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/de/artus/BasePlugin.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,23 +65,23 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.3034483",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.3034483&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -117,6 +93,7 @@
       <workItem from="1710255020862" duration="6144000" />
       <workItem from="1710262383103" duration="27838000" />
       <workItem from="1710513885433" duration="13431000" />
+      <workItem from="1710709146646" duration="814000" />
     </task>
     <servers />
   </component>
