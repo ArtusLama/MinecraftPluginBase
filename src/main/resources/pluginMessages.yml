@@ -10,9 +10,7 @@ en:
     config:
       save: "Something went wrong while saving a config file!"
 
-  info:
-    translations:
-      created_config: "Translation config does not exist! Creating default one ..."
+
 
 
 

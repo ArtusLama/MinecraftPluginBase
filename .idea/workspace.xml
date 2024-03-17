@@ -10,8 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59f82ab3-404d-47ac-9482-3409857b28ed" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/MinecraftPluginBase_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/MinecraftPluginBase_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/artus/basePlugin/text/DefaultMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/artus/basePlugin/text/DefaultMessages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/pluginMessages.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/pluginMessages.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +96,9 @@
       <workItem from="1710262383103" duration="27838000" />
       <workItem from="1710513885433" duration="13431000" />
       <workItem from="1710709146646" duration="814000" />
+      <workItem from="1710711091862" duration="9000" />
+      <workItem from="1710711977645" duration="241000" />
+      <workItem from="1710712358871" duration="41000" />
     </task>
     <servers />
   </component>
